@@ -111,4 +111,4 @@ getDunamicInformatin('#weight');
 getDunamicInformatin('#age');
 }
 
-module.exports = calc;
+export default calc;
